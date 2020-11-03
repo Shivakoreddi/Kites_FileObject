@@ -1,2 +1,2 @@
 # Kites_FileObject
-FileObject Project named Kites is  Simple and Readable
+FileObject Project named Kites is  Simple and Readable file format
